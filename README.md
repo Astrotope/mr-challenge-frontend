@@ -26,5 +26,5 @@ Development Steps:
 
 (4) npm start
 
-TODO: follow this guide to deploy to GitHub Pages [](https://create-react-app.dev/docs/deployment/#github-pages)
+TODO: follow this guide to deploy to GitHub Pages [Publish React to GitHub](https://create-react-app.dev/docs/deployment/#github-pages)
 
