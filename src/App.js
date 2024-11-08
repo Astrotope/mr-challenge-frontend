@@ -7,7 +7,7 @@ function App() {
 
   const handleSubscribe = async () => {
     try {
-      const response = await fetch("http://localhost:5010/api/register", {
+      const response = await fetch("https://mr-challenge-backend.onrender.com/api/register", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
